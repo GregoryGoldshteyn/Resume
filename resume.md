@@ -13,7 +13,7 @@ author:
 - Gregory Goldshteyn
 subject: 'Gregory Goldshteyn Resume'
 ---
-###### [[ gregorygoldshteyn.github.io ](https://https://gregorygoldshteyn.github.io/)] . [ goldshteyng95@gmail.com ] . [ 732 895 4925 ] [ linkedin.com/in/ggoldshteyn ]
+###### [[ gregorygoldshteyn.github.io ](https://https://gregorygoldshteyn.github.io/)] . [ goldshteyng95@gmail.com ] . [ 732 895 4925 ] . [ linkedin.com/in/ggoldshteyn ]
 
 ### Gregory Goldshteyn
 
